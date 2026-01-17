@@ -1,6 +1,0 @@
-- module-name: imgui_bundle
-  data-files:
-    - from: imgui_bundle
-      include:
-        - "**/*.dll"
-      to: "imgui_bundle"
