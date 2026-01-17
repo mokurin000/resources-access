@@ -1,0 +1,14 @@
+[project]
+name = "resources-access"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "imgui-bundle>=1.92.5",
+]
+
+[dependency-groups]
+dev = [
+    "pyinstaller>=6.18.0",
+]
